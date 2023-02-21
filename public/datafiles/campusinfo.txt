@@ -1,0 +1,2 @@
+Into this file you will have some relevant information regarding to this campus where we are, 
+it will also might have some others values related with the same topic.
